@@ -10,6 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  bonfire: ^3.10.0
+  equatable: ^2.0.5
+  bloc: ^8.1.4
+  flutter_bloc: ^8.1.6
 
 dev_dependencies:
   flutter_test:
@@ -18,10 +22,21 @@ dev_dependencies:
 
 flutter:
 
-  uses-material-design: true
-
+  # dart pub global activate asset_manager_cli
+  # asset_manager add
   assets:
     - assets/
+    - assets/images/
+    - assets/images/enviorments/
+    - assets/images/enviorments/3_hospital/
+    - assets/images/enviorments/1_universal/
+    - assets/images/enviorments/2_jail/
+    - assets/images/levels/
+    - assets/images/characters/
+    - assets/tiles/
+
+  uses-material-design: true
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

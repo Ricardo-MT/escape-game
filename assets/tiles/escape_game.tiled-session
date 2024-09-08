@@ -1,0 +1,139 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_02.tmj",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/Users/r.mejias/Documents/Sourcetree/darkness_dungeon/assets/images/tiled/map.json": {
+            "scale": 1.4786,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 56.810496415528206,
+                "y": 24.00919788989586
+            }
+        },
+        "/Users/r.mejias/Documents/Sourcetree/darkness_dungeon/assets/images/tiled/tileSet.json": {
+            "scaleInDock": 1
+        },
+        "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_01.tmj": {
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 0.9922,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 431.3646442249547,
+                "y": 234.3277565007055
+            }
+        },
+        "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_02.tmj": {
+            "expandedObjectLayers": [
+                2,
+                3
+            ],
+            "scale": 1.239453125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 192.82697762369997,
+                "y": 339.26252757642607
+            }
+        },
+        "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_03.tmj": {
+            "expandedObjectLayers": [
+                2,
+                3
+            ],
+            "scale": 1.7763020833333334,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 182.96437472511363,
+                "y": 192.2533352880809
+            }
+        },
+        "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_04.tmj": {
+            "expandedObjectLayers": [
+                2,
+                3
+            ],
+            "scale": 1.7465,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 959.6335528199256,
+                "y": 399.94274262811336
+            }
+        },
+        "escape_game_jail.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "floors.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "floors_32x32.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "jail.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "jail_32x32.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_01.tmj": {
+            "scale": 0.71,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 440.84507042253523,
+                "y": 242.95774647887333
+            }
+        },
+        "level_01.tmx": {
+            "scale": 0.7168981481481481,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 432.4184694866,
+                "y": 240.6199547949629
+            }
+        },
+        "walls_32x32.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/enviorments/2_jail",
+    "map.height": 25,
+    "map.lastUsedFormat": "json",
+    "map.width": 60,
+    "openFiles": [
+        "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_01.tmj",
+        "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_02.tmj",
+        "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_03.tmj",
+        "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_04.tmj"
+    ],
+    "project": "escape_game.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_01.tmj",
+        "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_04.tmj",
+        "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_03.tmj",
+        "/Users/r.mejias/Documents/Sourcetree/escape-game/assets/images/levels/level_02.tmj",
+        "/Users/r.mejias/Documents/Sourcetree/darkness_dungeon/assets/images/tiled/map.json",
+        "jail_32x32.tsj",
+        "walls_32x32.tsj",
+        "floors_32x32.tsj",
+        "escape_game_jail.tsx",
+        "level_01.tmx",
+        "jail.tsx",
+        "floors.tsx"
+    ],
+    "tileset.lastUsedFormat": "json"
+}

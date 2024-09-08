@@ -1,0 +1,14 @@
+{ "columns":24,
+ "image":"..\/images\/enviorments\/1_universal\/walls_32x32.png",
+ "imageheight":1760,
+ "imagewidth":768,
+ "margin":0,
+ "name":"walls_32x32",
+ "spacing":0,
+ "tilecount":1320,
+ "tiledversion":"1.10.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}

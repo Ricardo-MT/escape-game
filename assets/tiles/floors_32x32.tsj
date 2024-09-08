@@ -1,0 +1,14 @@
+{ "columns":15,
+ "image":"..\/images\/enviorments\/1_universal\/floors_32x32.png",
+ "imageheight":1280,
+ "imagewidth":480,
+ "margin":0,
+ "name":"floors_32x32",
+ "spacing":0,
+ "tilecount":600,
+ "tiledversion":"1.10.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}

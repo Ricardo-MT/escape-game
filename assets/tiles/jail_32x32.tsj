@@ -1,0 +1,14 @@
+{ "columns":16,
+ "image":"..\/images\/enviorments\/2_jail\/jail_32x32.png",
+ "imageheight":1440,
+ "imagewidth":512,
+ "margin":0,
+ "name":"jail_32x32",
+ "spacing":0,
+ "tilecount":720,
+ "tiledversion":"1.10.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}
